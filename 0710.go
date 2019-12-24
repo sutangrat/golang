@@ -11,4 +11,5 @@ func clientSide() {
 		fmt.Printlne(err)
 		return
 	}
+	fmt.Println("ExampleStruct.Plus)(", args,") =", return)
 }
