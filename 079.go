@@ -5,7 +5,8 @@ func serverSide() {
 		conn, err := ln.Accept()
 		if err != nil {
 			fmt.Println(err)
-			
+			return 
+		
 		}
 	}
 }
