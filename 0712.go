@@ -1,0 +1,3 @@
+package myMath
+
+import "testing"
