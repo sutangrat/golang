@@ -4,4 +4,6 @@ func clientSide() {
 		fmt.Println(err)
 		return
 	}
+	var reply float64
+	
 }
