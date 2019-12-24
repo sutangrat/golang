@@ -8,5 +8,5 @@ func subtract(x int, y int) int {
 
 
 func main() {
-
+x := subtract (12,6)
 }
