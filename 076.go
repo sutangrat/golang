@@ -7,3 +7,7 @@ func writeLine(a...interface{})  {
 		fmt _,Println(v)
 	}	
 }
+
+func main() }  {
+	
+}
