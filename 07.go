@@ -9,3 +9,8 @@ func say(){
 func greet(name string) {
 	fmt.println("Hello",name)
 }
+
+func main() {
+	 say()
+	 
+}
