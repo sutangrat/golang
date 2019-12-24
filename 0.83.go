@@ -9,4 +9,8 @@ func handlePanic() {
 		main()
 	}
 }
-
+func main(){
+	defer handlePanic ()
+	var i int
+	
+}
