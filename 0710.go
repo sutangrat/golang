@@ -9,5 +9,6 @@ func clientSide() {
 	err = client.Call ("ExampleStruct.Plus",args,&reply)
 	if err != nil {
 		fmt.Printlne(err)
+		return
 	}
 }
