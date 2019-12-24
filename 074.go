@@ -15,5 +15,5 @@ func main() {
 	fmt.println(x)
 
 	y := sum()
-	
+	fmt.println(y)
 }
