@@ -12,5 +12,6 @@ func sum (numbers...int) int {
 
 func main() {
 	x := (2,4,6,8)
+	fmt.println(x)
 	
 }
