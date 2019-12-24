@@ -6,3 +6,5 @@ import (
 	"net/rpc"
 )
 
+type ExampleStruct struct{}
+
