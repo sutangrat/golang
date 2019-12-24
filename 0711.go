@@ -3,5 +3,5 @@ func main()  {
 	go clientSide()
 
 	var input string
-	
-}
+	fmt.Scan(&input)
+}	
