@@ -6,7 +6,9 @@ func serverSide() {
 		if err != nil {
 			fmt.Println(err)
 			return 
-		
+		} else {
+			
 		}
 	}
+		
 }
