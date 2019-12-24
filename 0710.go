@@ -7,4 +7,5 @@ func clientSide() {
 	var reply float64
 	args := []float64{5, 7, 9, 11, 23}
 	err = client.Call ("ExampleStruct.Plus",args,&reply)
+	if err != nil
 }
