@@ -17,5 +17,6 @@ func main(){
 	if e ! = nit {
 		panic("to much")
 	}	
+	fmt.Println("your number :", i)
 }	
 
