@@ -15,6 +15,7 @@ func main(){
 	fmt.Print("type number :")
 	_, e := fmt.Scan(&i)
 	if e ! = nit {
-		
-	}
-}
+		panic("to much")
+	}	
+}	
+
