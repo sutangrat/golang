@@ -5,4 +5,6 @@ import (
 	"strings"
 )
 
-func main
+func main() {
+	
+}
