@@ -7,4 +7,5 @@ import (
 
 func main() {
 	fmt.Println(stings.HasSuffix("Hello world","world"))
+	fmt.Println(stings.HasSuffix("Hello world","world"))
 }
