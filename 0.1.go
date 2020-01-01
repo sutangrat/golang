@@ -4,4 +4,7 @@ package main
 
 import "fmt"
 
-func main()
+func main(){
+	name := "Goku" //defines name with value goku
+	
+}
