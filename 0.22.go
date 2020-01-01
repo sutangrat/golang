@@ -6,5 +6,5 @@ import (
 )
 
 func main()  {
-	
+	var b strings.Builder
 }
