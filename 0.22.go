@@ -10,4 +10,5 @@ func main()  {
 	b.WriteString("Hello")
 	b.WriteString('')
 	b.WriteString("world")
+	fmt.Println(b.strings())
 }
