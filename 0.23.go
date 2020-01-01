@@ -8,5 +8,6 @@ import (
 
 func main(){
 	startA := time.Now()
+	var a string
 	
 }
