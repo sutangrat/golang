@@ -9,3 +9,7 @@ func handlePanic()  {
 		main()
 	}
 }
+
+func main() {
+	
+}
