@@ -14,4 +14,6 @@ func main(){
 }
 fmt.Println("a",time.Since(startA))
 
-startB := time.Now()	
+startB := time.Now()
+var b strings.Builder
+
