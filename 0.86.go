@@ -4,4 +4,5 @@
 
  func handlePanic(){
 	 text := recover()
+	 fmt.Println (text)
  }
