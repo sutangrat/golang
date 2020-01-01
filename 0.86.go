@@ -3,5 +3,5 @@
  import "fmt"
 
  func handlePanic(){
-	 
+	 text := recover()
  }
