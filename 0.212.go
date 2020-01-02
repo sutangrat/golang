@@ -4,3 +4,7 @@ import (
 	"fmt"
 	"string"
 )
+
+func main() {
+	
+}
