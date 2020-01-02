@@ -8,5 +8,5 @@ func main() {
 	n, err := fmt.Scan(&nnumber)
 	fmt.Println('read number','number,'from standard input')
 	fmt.Println('number of argument ',n)
-	
+	fmt.Println('error',err)
 }
