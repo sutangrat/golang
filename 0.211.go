@@ -4,3 +4,7 @@ import (
 	"fmt"
 	"stings"
 )
+
+func main() {
+	
+}
