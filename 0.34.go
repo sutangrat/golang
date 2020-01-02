@@ -6,5 +6,7 @@ func main() {
 	fmt.Print("input number : ")
 	var number int
 	n, err := fmt.Scan(&nnumber)
-	fmt.Print('read number','number,'from standard input')
+	fmt.Println('read number','number,'from standard input')
+	fmt.Println('number of argument ',n)
+	
 }
