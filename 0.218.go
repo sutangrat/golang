@@ -1,1 +1,1 @@
-package maic
+package main
