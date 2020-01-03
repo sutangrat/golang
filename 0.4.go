@@ -14,5 +14,11 @@ func main() {
 	sutudent_9 := "Oolong"
 	sutudent_10 := "Puar"
 
-}	
+	fmt.Println(sutudent_1, sutudent_2, sutudent_3, sutudent_4, sutudent_5
+	    sutudent_6, sutudent_7, sutudent_8, sutudent_9, sutudent_10)
+}		
+			
+		
+
+	
 
