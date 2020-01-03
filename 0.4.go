@@ -9,6 +9,7 @@ func main() {
 	sutudent_4 := "Piccolo"
 	sutudent_5 := "Krillin"
 	sutudent_6 := "Yamcha"
+	sutudent_7 := "Bluma"
 
 }	
 
