@@ -8,6 +8,7 @@ func main() {
 	sutudent_3 := "Vegeta"
 	sutudent_4 := "Piccolo"
 	sutudent_5 := "Krillin"
+	sutudent_6 := "Yamcha"
 
 }	
 
