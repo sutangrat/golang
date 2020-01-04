@@ -7,4 +7,6 @@ func main() {
 
 	x := alphabets[0:2]
 	fmt.Println(x)
+
+	z := y[0:1]
 }
