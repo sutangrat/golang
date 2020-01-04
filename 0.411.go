@@ -5,12 +5,16 @@ func main() {
 	alphabets := [4]string{"A", "B", "C", "D"}
 	fmt.Println(alphabets)
 
-	x := alphabets[0:2]
+    x := alphabets[0:2]
 	fmt.Println(x)
+
+	y := x[2:4]
+	
+	
 
 	z := y[0:1]
 	fmt.Println(z)
 
 	z[0] = "x"
-	
+	fmt.Println(alphabets)
 }
