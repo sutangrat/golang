@@ -9,4 +9,5 @@ func main() {
 	fmt.Println(x)
 
 	z := y[0:1]
+	fmt.Println(z)
 }
