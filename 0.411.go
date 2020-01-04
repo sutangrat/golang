@@ -11,10 +11,10 @@ func main() {
 	y := x[2:4]
 	fmt.Println(y)
 	
-
-	z := y[0:1]
+    z := y[0:1]
 	fmt.Println(z)
-
-	z[0] = "x"
+	
+    z[0] = "x"
 	fmt.Println(alphabets)
+	
 }
