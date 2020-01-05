@@ -8,4 +8,6 @@ func main() {
 	elements["He"] = "Helium"
 	elements["li"] = "Lithium"
 	fmt.Println(elements)
+
+	delete(elements, "H")
 }
