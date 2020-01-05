@@ -4,4 +4,10 @@ func TestRomanNumerals(t *tseting.T) {
 		Arabic      int
         Want        string
 }{
-	{"1 gets converted to I", 1, "I"},	
+	    {"1 gets converted to I", 1, "I"},
+	    {"2 gets converted to II", 2, "II"},
+}	
+
+for _, test := range cases {
+	
+}
