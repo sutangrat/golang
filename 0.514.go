@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
 	names := []string{}
+	names = append(names, "Goku")
 }
