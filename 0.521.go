@@ -7,4 +7,5 @@ func main() {
 	elements["H"] = "Hydrogen"
 	elements["He"] = "Helium"
 	elements["li"] = "Lithium"
+	fmt.Println(elements)
 }
