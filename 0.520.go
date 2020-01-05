@@ -9,4 +9,5 @@ func main() {
 	elements["Li"] = "Lithium"
 
 	h := elements["H"]
+	fmt.Println(h)
 }
