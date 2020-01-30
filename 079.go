@@ -7,7 +7,7 @@ func serverSide() {
 			fmt.Println(err)
 			return 
 		} else {
-			
+			go rpc.ServeConn(conn)
 		}
 	}
 		
