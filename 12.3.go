@@ -11,7 +11,8 @@ func main() {
 		return
 	}
 	defer dri.Close()
-	
+
+	fileInfos, err := dir.Readdir(-1)
 	for _, fi := range fileInfos {
 		filename := fi.Name()
 		fmt.Println(filename)
