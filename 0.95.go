@@ -5,5 +5,5 @@ import "fmt"
 type I interface{}
 
 fucn main() {
-	
+	var i I
 }
