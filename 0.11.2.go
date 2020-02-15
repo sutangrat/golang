@@ -11,3 +11,6 @@ func say(txt string)  {
 		time.Sleep(time.Millisecond)
 	}
 }
+func main()  {
+	
+}
