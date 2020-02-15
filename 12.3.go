@@ -10,4 +10,7 @@ func main() {
 	if err != nil {
 		return
 	}
+	for _, fi := range fileInfos {
+		
+	}
 }
