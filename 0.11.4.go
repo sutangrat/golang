@@ -9,4 +9,5 @@ import (
 func say(txt string, sleep time.Duration,wg *sync.WaiGroup)  {
 	defer wg. Done()
 	fmt.Println(txt)
+	time.Sleep(time.Millisecond * sleep)
 }
