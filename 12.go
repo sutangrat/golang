@@ -5,3 +5,7 @@ import (
 	"io"
 	"string"
 )
+
+func main() {
+	
+}
