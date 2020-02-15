@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	
+	reader := strings.NewReader("HelloWorld")
 }
