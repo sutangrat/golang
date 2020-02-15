@@ -5,5 +5,5 @@ import (
 )
 
 func main()  {
-	
+	file, err : os.Create("myFile.txt")
 }
