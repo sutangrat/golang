@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	
+	dir, err := os. Open(".")
 }
