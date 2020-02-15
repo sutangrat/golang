@@ -13,5 +13,7 @@ func say(txt string, sleep time.Duration,wg *sync.WaiGroup)  {
 }
 
 func main() {
+	var wg sync.WaiGroup
+	wg.Add (2)
 	
 }
