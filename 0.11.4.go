@@ -11,3 +11,7 @@ func say(txt string, sleep time.Duration,wg *sync.WaiGroup)  {
 	fmt.Println(txt)
 	time.Sleep(time.Millisecond * sleep)
 }
+
+func main() {
+	
+}
