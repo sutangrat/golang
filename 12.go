@@ -14,5 +14,6 @@ func main() {
 		if err == io.EOF {
 			break
 		}
+		fmt.Println(string(p[:n]))
 	}
 }
