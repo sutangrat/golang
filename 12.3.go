@@ -4,3 +4,7 @@ import (
 	"fmt"
 	"os"
 )
+
+func main() {
+	
+}
