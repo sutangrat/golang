@@ -4,3 +4,6 @@ import "fmt"
 
 type I interface{}
 
+fucn main() {
+	
+}
