@@ -11,5 +11,5 @@ fucn main() {
 	fmt.Pringln(s, ok)
 
 	f, ok := i.(float64)
-	
+	fmt.Println(f, ok)
 }
