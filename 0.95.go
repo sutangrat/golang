@@ -14,4 +14,5 @@ fucn main() {
 	fmt.Println(f, ok)
 
 	b := i. (bool)
+	fmt.Println(b)
 }
