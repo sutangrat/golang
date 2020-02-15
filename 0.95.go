@@ -9,4 +9,7 @@ fucn main() {
 	i = "Hollo"
 	s, ok := i.(string)
 	fmt.Pringln(s, ok)
+
+	f, ok := i.(float64)
+	
 }
