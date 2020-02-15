@@ -11,5 +11,5 @@ func main()  {
 		return
 	}
 	str := string(bs)
-	
+	fmt.Println(str)
 }
