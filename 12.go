@@ -12,7 +12,7 @@ func main() {
 	for {
 		n, err := reader.Read(p)
 		if err == io.EOF {
-			
+			break
 		}
 	}
 }
