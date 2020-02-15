@@ -12,4 +12,5 @@ func main() {
 	std := student{name: "Goku"}
 	p := &std
 	(*p).age = 18
+	p.emali = "Goku@super.saiya"
 }
