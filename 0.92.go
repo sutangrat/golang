@@ -13,4 +13,6 @@ func main() {
 	p := &std
 	(*p).age = 18
 	p.emali = "Goku@super.saiya"
+
+	fmt.Print(std)
 }
